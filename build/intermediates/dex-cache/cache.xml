@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/hp/Downloads/adt-bundle-linux-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/hp/Documents/android_studio_program/FlipClockWatchFace/wear/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-aaae7321b6bdfeeb7e17976c4058c8119aabdc7d.jar" />
+    </item>
+    <item
+        jar="/home/hp/Documents/android_studio_program/FlipClockWatchFace/wear/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/home/hp/Documents/android_studio_program/FlipClockWatchFace/wear/build/intermediates/pre-dexed/debug/classes-16f53103d4d2f871935015302e09e6b696e20228.jar" />
+    </item>
+    <item
+        jar="/home/hp/Documents/android_studio_program/FlipClockWatchFace/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="/home/hp/Documents/android_studio_program/FlipClockWatchFace/wear/build/intermediates/pre-dexed/debug/classes-b35e81cec6b3d75ba11ff21dd0ceb3f39ac4e0d2.jar" />
+    </item>
+    <item
+        jar="/home/hp/Documents/android_studio_program/FlipClockWatchFace/wear/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/hp/Documents/android_studio_program/FlipClockWatchFace/wear/build/intermediates/pre-dexed/debug/classes-9e6ccd4d3a7d02c0e44b67dd0866070705abc1e8.jar" />
+    </item>
+    <item
+        jar="/home/hp/Documents/android_studio_program/FlipClockWatchFace/wear/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/hp/Documents/android_studio_program/FlipClockWatchFace/wear/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-9fea376df5605466886a89190610e5aa3ca3fe26.jar" />
+    </item>
+    <item
+        jar="/home/hp/Documents/android_studio_program/FlipClockWatchFace/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/home/hp/Documents/android_studio_program/FlipClockWatchFace/wear/build/intermediates/pre-dexed/debug/classes-a2e961e5d2bca9a15ac29c54ee9c40b266ea8484.jar" />
+    </item>
+    <item
+        jar="/home/hp/Documents/android_studio_program/FlipClockWatchFace/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="/home/hp/Documents/android_studio_program/FlipClockWatchFace/wear/build/intermediates/pre-dexed/debug/classes-577a2402a90b2537f4f663790b3ac077d9f25c80.jar" />
+    </item>
+    <item
+        jar="/home/hp/Documents/android_studio_program/FlipClockWatchFace/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/home/hp/Documents/android_studio_program/FlipClockWatchFace/wear/build/intermediates/pre-dexed/debug/classes-f0063c5f6b167a7b803ac64e86823e07182ffb7a.jar" />
+    </item>
+    <item
+        jar="/home/hp/Documents/android_studio_program/FlipClockWatchFace/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="/home/hp/Documents/android_studio_program/FlipClockWatchFace/wear/build/intermediates/pre-dexed/debug/classes-39a5953d992b23220c9c03cc21a808f28e014822.jar" />
+    </item>
+    <item
+        jar="/home/hp/Documents/android_studio_program/FlipClockWatchFace/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="58b928ccbaf9090c632f278d6bd31e1ae42f2457">
+        <dex dex="/home/hp/Documents/android_studio_program/FlipClockWatchFace/wear/build/intermediates/pre-dexed/debug/classes-1d742eb646b1ed4d5a4a85d06dc60ae59a340ba1.jar" />
+    </item>
+
+</items>
