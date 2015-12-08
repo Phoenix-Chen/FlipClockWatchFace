@@ -13,7 +13,6 @@ import android.widget.RadioGroup;
 import android.widget.Toast;
 
 import java.util.Calendar;
-import java.util.concurrent.TimeUnit;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -51,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
         PendingIntent recurringAlarm = PendingIntent.getBroadcast(this,0,mBroadcastReceiver, PendingIntent.FLAG_CANCEL_CURRENT);
         AlarmManager alarms = (AlarmManager) getSystemService(Context.ALARM_SERVICE);
         Calendar updateTime = Calendar.getInstance();
-        alarms.setRepeating(AlarmManager.RTC_WAKEUP, updateTime.getTimeInMillis(), TimeUnit.SECONDS.toMillis(1), recurringAlarm);
+        alarms.setRepeating(AlarmManager.RTC_WAKEUP, updateTime.getTimeInMillis(), 1000 * 60, recurringAlarm);
 
 //        startService(BGIntent);
 

@@ -175,6 +175,9 @@ public class BGservice extends Service implements
                 case "Clear":
                     BGImageNum=3;
                     break;
+                case "Mist":
+                    BGImageNum=4;
+                    break;
                 default:
                     BGImageNum=0;
                     break;
