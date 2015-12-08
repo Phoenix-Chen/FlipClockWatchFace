@@ -196,12 +196,14 @@ public class MyWatchFace extends CanvasWatchFaceService {
 //                background = Bitmap.createScaledBitmap(BitmapFactory.decodeResource(resources,R.drawable.woodbackground), displayWidth, displayHeight, true);
 //            }
 
-            BGs=new Bitmap[5];
+            BGs=new Bitmap[6];
             BGs[0] = Bitmap.createScaledBitmap(BitmapFactory.decodeResource(getResources(),R.drawable.woodbackground),displayWidth, displayHeight, true);
             BGs[1] = Bitmap.createScaledBitmap(BitmapFactory.decodeResource(getResources(),R.drawable.rain),displayWidth, displayHeight, true);
             BGs[2] = Bitmap.createScaledBitmap(BitmapFactory.decodeResource(getResources(),R.drawable.clouds),displayWidth, displayHeight, true);
             BGs[3] = Bitmap.createScaledBitmap(BitmapFactory.decodeResource(getResources(),R.drawable.clear),displayWidth, displayHeight, true);
             BGs[4] = Bitmap.createScaledBitmap(BitmapFactory.decodeResource(getResources(),R.drawable.mist),displayWidth, displayHeight, true);
+            BGs[5] = Bitmap.createScaledBitmap(BitmapFactory.decodeResource(getResources(),R.drawable.haze),displayWidth, displayHeight, true);
+
 
         }
 
