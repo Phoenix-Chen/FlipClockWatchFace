@@ -181,6 +181,9 @@ public class BGservice extends Service implements
                 case "Haze":
                     BGImageNum=5;
                     break;
+                case "Snow":
+                    BGImageNum=6;
+                    break;
                 default:
                     BGImageNum=0;
                     break;
